@@ -1,0 +1,10 @@
+E:\TelegramBotDev\QuestlineBot\QuestlineBot\QuestlineBot\bin\Debug\QuestlineBot.exe.config
+E:\TelegramBotDev\QuestlineBot\QuestlineBot\QuestlineBot\bin\Debug\QuestlineBot.exe
+E:\TelegramBotDev\QuestlineBot\QuestlineBot\QuestlineBot\bin\Debug\QuestlineBot.pdb
+E:\TelegramBotDev\QuestlineBot\QuestlineBot\QuestlineBot\bin\Debug\Newtonsoft.Json.dll
+E:\TelegramBotDev\QuestlineBot\QuestlineBot\QuestlineBot\bin\Debug\Telegram.Bot.dll
+E:\TelegramBotDev\QuestlineBot\QuestlineBot\QuestlineBot\bin\Debug\Newtonsoft.Json.xml
+E:\TelegramBotDev\QuestlineBot\QuestlineBot\QuestlineBot\bin\Debug\Telegram.Bot.xml
+E:\TelegramBotDev\QuestlineBot\QuestlineBot\QuestlineBot\obj\Debug\QuestlineBot.csprojResolveAssemblyReference.cache
+E:\TelegramBotDev\QuestlineBot\QuestlineBot\QuestlineBot\obj\Debug\QuestlineBot.exe
+E:\TelegramBotDev\QuestlineBot\QuestlineBot\QuestlineBot\obj\Debug\QuestlineBot.pdb
