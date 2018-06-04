@@ -13,7 +13,7 @@ namespace QuestlineBot {
         private Telegram.Bot.TelegramBotClient botClient;
 
         public QuestlineBot() {
-            botClient = new Telegram.Bot.TelegramBotClient("554478923:AAFoXsqMvvoZvEKfePjdT1dCrP4C1BkjdRE");
+            botClient = new Telegram.Bot.TelegramBotClient("apikey");
 
             botClient.OnMessage += MessageReceived;
         }
